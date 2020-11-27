@@ -28,13 +28,13 @@ module.exports = {
       options: {
         name: `Cara - @lekoarts/gatsby-theme-cara`,
         short_name: `Cara`,
-        description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+        description: `A bit about me and many projects I have been working on`,
         start_url: `/`,
         background_color: `#141821`,
         theme_color: `#f6ad55`,
         display: `standalone`,
         icons: [
-      
+
 
         ],
       },
